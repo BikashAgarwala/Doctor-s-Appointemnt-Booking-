@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'bodyFont';
+    src: url('/src/assets/fonts/nbinternationalpromono-webfont.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: 'titleFont';
+    src: url('/src/assets/fonts/TWKLausanne-300.woff2') format('truetype');
+}
+@font-face {
+    font-family: 'logoFont';
+    src: url('/src/assets/fonts/Lovan\ -\ Sugiyanto.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'heroFont';
+    src: url('/src/assets/fonts/Milanello\ -\ Free\ Personal.otf') format('truetype');
+}
+@font-face {
+    font-family: 'headingFont';
+    src: url('/src/assets/fonts/Printvetica.otf') format('truetype');
+}
+@font-face {
+    font-family: 'contentFont';
+    src: url('/src/assets/fonts/fontawesome-webfont.woff2') format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
