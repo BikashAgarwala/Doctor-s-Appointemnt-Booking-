@@ -13,8 +13,8 @@ function Contact() {
   }
 
   return (
-    <div className='flex justify-center '>
-    <div className='m-10 p-10 w-[60%] shadow-md shadow-teal-500 drop-shadow rounded-3xl overflow-clip'>
+    <div className=' w-[85vw] mx-auto flex justify-center '>
+    <div className='m-10 p-10 w-[75%] shadow-md shadow-teal-500 drop-shadow rounded-3xl overflow-clip'>
       <div className=''>
       <div className='text-5xl font-headingFont border-b-2 '>
         Contact us

@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div className=' m-10 p-3 text-2xl tracking-wide font-contentFont leading-relaxed '>
+    <div className='w-[85vw] mx-auto m-10 p-3 text-2xl tracking-wide font-contentFont leading-relaxed '>
       <div>
         <div className='text-4xl font-heroFont border-b-2' >
         🌟 Welcome to <span className='font-logoFont'>niyukti</span> - Your Health, Your Time!

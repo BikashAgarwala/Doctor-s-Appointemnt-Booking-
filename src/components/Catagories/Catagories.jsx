@@ -9,7 +9,7 @@ import ClinicSlider from './ClinicSlider'
 
 const Catagories = () => {
   return(
-    <div>
+    <div className='w-[85vw] mx-auto'>
     <div className='flex justify-around '>
       {majorCatagoriesData.map((majorCatagory) => (
           <MajorCatatories 

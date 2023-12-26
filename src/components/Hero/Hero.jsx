@@ -3,7 +3,7 @@ import React from 'react'
 function Hero() {
   return (
     <>
-    <div className='  flex  justify-center items-center mt-10 mb-10  overflow-hidden '> 
+    <div className='w-[85vw] mx-auto flex  justify-center items-center mt-[15vh] mb-16  overflow-hidden '> 
    
     {/* bg-[url(src/assets/bookBg.png)] bg-cover */}
 
